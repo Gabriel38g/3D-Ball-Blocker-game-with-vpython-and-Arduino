@@ -10,3 +10,4 @@ It also requires that Python3 and vpython are installed on your computer.
 The python code must be changed to the port of your Arduino (e.g COM1 or ACMO, etc)
 
 A demonstration of this code is here on my YouTube channel: https://youtu.be/ssaVfeHOa-U
+Paul McWhorter's Course on Arduino w Python (19 lessons) can be found here: https://youtu.be/flfuaZaKFCM
